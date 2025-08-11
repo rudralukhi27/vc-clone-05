@@ -1,2 +1,3 @@
 # vc-clone-05
-this prectical for clone riposetry
+this prectical is for clone riposetry
+author:Rudra
